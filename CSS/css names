@@ -1,0 +1,20 @@
+about.css
+
+Manages the styling for the "About" section of your webpage.
+Likely includes designs for text content, headings, and layout related to your personal or website's information.
+May define specific styles for backgrounds, animations, and positioning unique to the "About" page.
+gallery.css
+
+Focuses on the layout and visual styling of the gallery section.
+Likely handles grid or flexbox layouts for displaying images in an organized manner.
+Includes hover effects, image transitions, and responsive designs for a visually appealing photo gallery.
+contact.css
+
+Styles the "Contact" section or page of your website.
+Includes form designs (input fields, labels, and submit buttons) and layouts for contact details or social media links.
+May use responsive techniques to ensure the contact form adapts to different screen sizes.
+room.css
+
+Manages the styling for a "Room" section or related content.
+Likely includes layouts for showcasing rooms (e.g., hotel rooms or accommodations) with images and descriptions.
+May use CSS for card layouts, hover effects, and responsive arrangements to enhance user experience.
